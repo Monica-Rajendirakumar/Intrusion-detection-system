@@ -32,7 +32,7 @@ The dataset contained **78 numerical flow features**, extracted using CICFlowMet
 ## 🛠 How to Start the Project Locally
 
 ### 📁 Clone this Repo
-- git clone https://github.com/Chandru-Ganesh/Intrusion-Detection-System.git
+- git clone https://github.com/Monica-Rajendirakumar/Intrusion-detection-system.git
 - cd Intrusion-Detection-System
   
 ## 🔧 Install Dependencies
