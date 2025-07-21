@@ -71,7 +71,7 @@ Features Used	78 features (no column names in dataset)
 - This ML project testing video has been givin in github download it and watch.
 
 ## 📫 Contact
-Developed with 💻 by Chandru Ganesh :
+Developed with 💻 by Monica Rajendirakumar :
 - 📧 Mail: monilaks2058@gmail.com.
 - 🔗 GitHub: Monica-Rajendirakumar.
 
